@@ -1,0 +1,978 @@
+Prism Launcher version: 6.3
+
+
+Launched instance in online mode
+
+authserver.mojang.com resolves to:
+    [18.64.103.101, 18.64.103.92, 18.64.103.80, 18.64.103.51]
+
+session.minecraft.net resolves to:
+    [13.107.213.45, 13.107.246.45]
+
+textures.minecraft.net resolves to:
+    [13.107.213.45, 13.107.246.45]
+
+api.mojang.com resolves to:
+    [13.107.213.45, 13.107.246.45]
+
+
+Minecraft folder is:
+C:/Users/tinko/AppData/Roaming/PrismLauncher/instances/FTB Skies/.minecraft
+
+
+Java path is:
+C:/Program Files/Java/jdk-17/bin/javaw.exe
+
+
+Checking Java version...
+Java is version 17.0.9, using 64 (amd64) architecture, from Oracle Corporation.
+
+
+Main Class:
+  io.github.zekerzhayard.forgewrapper.installer.Main
+
+Native path:
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/instances/FTB Skies/natives
+
+Traits:
+traits XR:Initial
+traits FirstThreadOnMacOS
+
+Libraries:
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.3.1/lwjgl-glfw-natives-windows-arm64-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.1/lwjgl-glfw-natives-windows-x86-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-windows/3.3.1/lwjgl-glfw-natives-windows-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.3.1/lwjgl-jemalloc-natives-windows-arm64-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.1/lwjgl-jemalloc-natives-windows-x86-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.1/lwjgl-jemalloc-natives-windows-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-windows-arm64/3.3.1/lwjgl-natives-windows-arm64-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-windows-x86/3.3.1/lwjgl-natives-windows-x86-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-windows/3.3.1/lwjgl-natives-windows-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-windows-arm64/3.3.1/lwjgl-openal-natives-windows-arm64-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.1/lwjgl-openal-natives-windows-x86-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-windows/3.3.1/lwjgl-openal-natives-windows-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.3.1/lwjgl-opengl-natives-windows-arm64-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.1/lwjgl-opengl-natives-windows-x86-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-windows/3.3.1/lwjgl-opengl-natives-windows-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-windows-arm64/3.3.1/lwjgl-stb-natives-windows-arm64-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.1/lwjgl-stb-natives-windows-x86-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-windows/3.3.1/lwjgl-stb-natives-windows-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.3.1/lwjgl-tinyfd-natives-windows-arm64-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.1/lwjgl-tinyfd-natives-windows-x86-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.1/lwjgl-tinyfd-natives-windows-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/mojang/logging/1.0.0/logging-1.0.0.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/5.8.5/oshi-core-5.8.5.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/slf4j/slf4j-api/1.8.0-beta4/slf4j-api-1.8.0-beta4.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-slf4j18-impl/2.17.1/log4j-slf4j18-impl-2.17.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/ibm/icu/icu4j/70.1/icu4j-70.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/mojang/javabridge/1.2.24/javabridge-1.2.24.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-common/4.1.77.Final/netty-common-4.1.77.Final.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-buffer/4.1.77.Final/netty-buffer-4.1.77.Final.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec/4.1.77.Final/netty-codec-4.1.77.Final.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-handler/4.1.77.Final/netty-handler-4.1.77.Final.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-resolver/4.1.77.Final/netty-resolver-4.1.77.Final.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport/4.1.77.Final/netty-transport-4.1.77.Final.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-native-unix-common/4.1.77.Final/netty-transport-native-unix-common-4.1.77.Final.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-classes-epoll/4.1.77.Final/netty-transport-classes-epoll-4.1.77.Final.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/mojang/authlib/3.11.49/authlib-3.11.49.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/mojang/text2speech/1.16.7/text2speech-1.16.7.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/io/github/zekerzhayard/ForgeWrapper/1.5.8-prism/ForgeWrapper-1.5.8-prism.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm/9.5/asm-9.5.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/jodah/typetools/0.8.3/typetools-0.8.3.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraftforge/fmlloader/1.19.2-43.3.5/fmlloader-1.19.2-43.3.5.jar
+  C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/com/mojang/minecraft/1.19.2/minecraft-1.19.2-client.jar
+
+Native libraries:
+
+Mods:
+  [✔] accelerated-decay-forge-1.0.0+mc1.19.2
+  [✔] ad_astra-forge-1.19.2-1.12.7
+  [✔] Ad-Astra-Giselle-Addon-forge-1.19.2-1.19
+  [✔] adtetra-1.0.1
+  [✔] AdvancedPeripherals-1.19.2-0.7.32r
+  [✔] AdvancementPlaques-1.19.2-1.4.7
+  [✔] AE2-Things-1.1.1
+  [✔] AE2WTLib-12.9.7
+  [✔] AEInfinityBooster-1.19.2-1.2.0+11
+  [✔] AI-Improvements-1.19.2-0.5.2
+  [✔] AIOTBotania-1.19.2-3.0.1
+  [✔] AkashicTome-1.6-23
+  [✔] almostunified-forge-1.19.2-0.7.2
+  [✔] angelblockrenewed-forge-1.3-1.19
+  [✔] antiblocksrechiseled-0.1.8
+  [✔] Apotheosis-1.19.2-6.4.1
+  [✔] appleskin-forge-mc1.19-2.4.2
+  [✔] Applied-Botanics-forge-1.4.6
+  [✔] appliedcooking-2.0.3
+  [✔] appliedenergistics2-forge-12.9.8
+  [✔] Applied-Mekanistics-1.3.5
+  [✔] archers_paradox-1.19.2-4.3.0.16
+  [✔] architectury-6.5.85-forge
+  [✔] ars_creo-1.19.2-3.2.1
+  [✔] ars_instrumentum-1.19.2-3.4.5
+  [✔] ars_nouveau-1.19.2-3.21.5
+  [✔] arsarmiger-1.19.2-1.6.0
+  [✔] art_of_forging-1.6.7-1.19.2
+  [✔] artifacts-1.19.2-5.0.4
+  [✔] AttributeFix-Forge-1.19.2-17.2.7
+  [✔] AutoRegLib-1.8.2-55
+  [✔] autosmithingtable_1.19.2-1.2.4
+  [✔] auudio_forge_1.0.3_MC_1.19
+  [✔] balm-forge-1.19.2-4.6.0
+  [✔] baubley-heart-canisters-1.19.2-2.1.0
+  [✔] bdlib-1.25.0.5-mc1.19.2
+  [✔] BeeFix-1.19-1.0.7
+  [✔] BetterCompatibilityChecker-1.0.10-build.50+mc1.19.2
+  [✔] blazemek-0.1.1
+  [✔] blockcarpentry-1.19.2-0.3.1.3
+  [✔] BlockRunner-v4.2.2-1.19.2-Forge
+  [✔] blueprint-1.19.2-6.2.0
+  [✔] Bookshelf-Forge-1.19.2-16.3.20
+  [✔] Botania-1.19.2-440-FORGE
+  [✔] BotanicAdditions-1.19.2-19.3.5
+  [✔] botarium-forge-1.19.2-1.8.2
+  [✔] bucketlib-1.19.2-1.0.7.0
+  [✔] BuildGuide-1.19-0.4.0
+  [✔] buildinggadgets-3.16.2-build.22+mc1.19.2
+  [✔] caelus-forge-1.19.2-3.0.0.6
+  [✔] castle_in_the_sky-1.19.2-0.5.2
+  [✔] cc-tweaked-1.19.2-1.101.3
+  [✔] ceramicbucket-1.19-3.1.0.0
+  [✔] ChanceCubes-1.19.2-5.0.2.475
+  [✔] charginggadgets-1.9.0
+  [✔] charmofundying-forge-6.2.1+1.19.2
+  [✔] chipped-forge-1.19.2-2.1.5
+  [✔] chisels-and-bits-forge-1.3.142
+  [✔] CleanView-1.19.2-v1
+  [✔] cloth-config-8.3.103-forge
+  [✔] Clumps-forge-1.19.2-9.0.0+14
+  [✔] CodeChickenLib-1.19.2-4.3.1.481-universal
+  [✔] cofh_core-1.19.2-10.3.1.48
+  [✔] collective-1.19.2-7.12
+  [✔] comforts-forge-6.0.6+1.19.2
+  [✔] CommonCapabilities-1.19.2-2.9.0
+  [✔] compacter-1.9.0.3-mc1.19.2
+  [✔] compactmachines-5.1.0
+  [✔] configured-2.1.1-1.19.2
+  [✔] connectedglass-1.1.9-forge-mc1.19
+  [✔] constructionwand-1.19.2-2.10
+  [✔] Controlling-forge-1.19.2-10.0+7
+  [✔] cookingforblockheads-forge-1.19.2-13.3.3
+  [✔] craftingstation-1.19.2-6.0.3
+  [✔] craftingtweaks-forge-1.19.2-15.1.8
+  [✔] crashutilities-6.2
+  [✔] Create_Questing-FORGE-1.19.2-1.0.0
+  [✔] create_sabers-1.19.2-1.3.0
+  [✔] create-1.19.2-0.5.1.f
+  [✔] createaddition-1.19.2-1.2.1
+  [✔] createastracompat-1.0.3-1.19.2
+  [✔] createendertransmission-2.0.4-1.19.2
+  [✔] createsifter-1.19.2-1.8.1.e-44
+  [✔] createteleporters1.1
+  [✔] createutilities-0.1.4+1.19.2
+  [✔] CreativeCore_FORGE_v2.9.4_mc1.19.2
+  [✔] creativedisk-1.0.0+mc1.19.2
+  [✔] CTM-1.19.2-1.1.6+8
+  [✔] Cucumber-1.19.2-6.0.10
+  [✔] cupboard-1.19.2-2.1
+  [✔] curios-forge-1.19.2-5.1.4.3
+  [✔] customvillagertrades-forge-19.21.0
+  [✔] Cyclic-1.19.2-1.8.2
+  [✔] CyclopsCore-1.19.2-1.18.11
+  [✔] dankstorage-1.19.2-5.1.6
+  [✔] DarkUtilities-Forge-1.19.2-13.1.9
+  [✔] defaultoptions-forge-1.19-15.0.2
+  [✔] default-server-properties-forge-77.1.0
+  [✔] DeLogger-4.7.0-build.9+mc1.19.2
+  [✔] Ding-1.19.2-Forge-1.4.1
+  [✔] dpanvil-1.19.2-4.4.0
+  [✔] dummmmmmy-1.19.2-1.7.1
+  [✔] durabilitytooltip-1.1.5-forge-mc1.19
+  [✔] DustrialDecor-1.3.3-1.19.2
+  [✔] easy_piglins-1.19.2-1.0.0
+  [✔] easy_villagers-1.19.2-1.0.16
+  [✔] easyelytratakeoff-1.19.2-4.1
+  [✔] EdivadLib-1.19.2-1.2.0
+  [✔] elementalcraft-1.19.2-5.8.5
+  [✔] elevatorid-1.19.2-1.8.10
+  [✔] elytraslot-forge-6.1.1+1.19.2
+  [✔] embeddium-0.2.12+mc1.19.2
+  [✔] EnchantmentDescriptions-Forge-1.19.2-13.0.14
+  [✔] EnderStorage-1.19.2-2.10.1.181-universal
+  [✔] endertrigon-1.0
+  [✔] EnergeticSheep-1.19.2-1.1.14
+  [✔] ensorcellation-1.19.2-4.3.1.20
+  [✔] entangled-1.3.16-forge-mc1.19.2
+  [✔] EverlastingAbilities-1.19.2-2.1.1
+  [✔] experienceobelisk-v1.4.10-1.19.2
+  [✔] ExtraStorage-1.19.2-3.0.1
+  [✔] Fallingleaves-1.19.1-2.0.0-alpha+20221129-2000
+  [✘] fancymenu_forge_2.14.9_MC_1.19-1.19.2.jar (disabled)
+  [✔] FarmersDelight-1.19.2-1.2.3
+  [✔] farmingforblockheads-forge-1.19.2-11.3.5
+  [✔] FastSuite-1.19.2-4.1.1
+  [✔] FastWorkbench-1.19.2-7.1.4
+  [✔] FeederHelmet-43.2.0
+  [✔] ferritecore-5.0.3-forge
+  [✔] findme-3.1.0-forge
+  [✔] Flopper-1.19.2-1.1.4
+  [✔] flower_doubling_1.19.2-1.0.0
+  [✔] FlowerPatch-forge-1.19.2-2.0.3
+  [✔] FluxNetworks-1.19.2-7.1.4.13
+  [✔] fm_audio_extension_forge_1.1.1-1_MC_1.19
+  [✔] forcecraft-1.19.2-3.3.3
+  [✔] FramedBlocks-6.8.6
+  [✔] ftbauxilium-forge-1902.1.10-build.42-forge
+  [✔] ftbbackups2-forge-1.19.2-1.0.23
+  [✔] ftb-chunks-forge-1902.4.2-build.302
+  [✔] ftb-essentials-1902.3.0-build.64
+  [✔] ftb-library-forge-1902.4.1-build.236
+  [✔] ftb-pack-companion-2.0.7+mc1.19.2
+  [✔] ftb-quests-forge-1902.5.7-build.326
+  [✔] ftb-ranks-forge-1902.1.15-build.76
+  [✔] ftb-skyblock-addons-1.1.0+mc1.19.2
+  [✔] ftb-team-dimensions-1.0.2-build.31-20230609.225328-1
+  [✔] ftb-teams-forge-1902.2.14-build.123
+  [✔] ftb-ultimine-forge-1902.4.1-build.90
+  [✔] ftb-xmod-compat-forge-1.2.3
+  [✔] fullstackwatchdog-1.0.1+1.19.2-forge
+  [✔] functionalstorage-1.19.2-1.1.9
+  [✔] fusion-1.1.0b-forge-mc1.19.2
+  [✔] gag-forge-2.0.0-build.8
+  [✔] gamemenumodoption-mc1.19.2-1.18.1
+  [✔] geckolib-forge-1.19-3.1.40
+  [✔] glassential-forge-1.19-1.2.4
+  [✔] HammerLib-1.19.2-19.3.74
+  [✔] handcrafted-forge-1.19.2-2.0.6
+  [✔] HealthOverlay-1.19.2-7.2.1
+  [✔] hexal-forge-1.19.2-0.2.18
+  [✔] hexcasting-forge-1.19.2-0.10.3
+  [✔] hexerei-0.3.3.1
+  [✔] HostileNeuralNetworks-1.19.2-4.1.1
+  [✔] Iceberg-1.19.2-forge-1.1.4
+  [✔] incontrol-1.19-7.1.12
+  [✔] incubation-1.19.2-3.0.1
+  [✔] industrial-foregoing-1.19.2-3.3.2.3-5
+  [✔] IntegratedCrafting-1.19.2-1.1.5
+  [✔] IntegratedDynamics-1.19.2-1.20.2
+  [✔] integratednbt-1.19.2-1.6.0
+  [✔] IntegratedTerminals-1.19.2-1.4.11
+  [✔] IntegratedTunnels-1.19.2-1.8.23
+  [✔] inventoryessentials-forge-1.19.2-5.4.0
+  [✔] inventorysorter-22.0.0
+  [✔] ironchest-1.19.2-14.2.7
+  [✔] IronJetpacks-1.19.2-6.0.6
+  [✔] item-filters-forge-1902.2.9-build.51
+  [✔] Jade-1.19.1-forge-8.9.1
+  [✔] JadeAddons-1.19.2-forge-3.6.0
+  [✔] JAOPCA-1.19.2-4.2.8.19
+  [✔] jei-1.19.2-forge-11.6.0.1018
+  [✔] JustEnoughProfessions-forge-1.19.2-2.0.2
+  [✔] JustEnoughResources-1.19.2-1.2.3.243
+  [✔] konkrete_forge_1.6.1_MC_1.19-1.19.2
+  [✔] kotlinforforge-3.12.0-all
+  [✔] kubejs_botania-1.3.1-forge
+  [✔] kubejs-create-forge-1902.2.4-build.36
+  [✔] kubejs-forge-1902.6.2-build.45
+  [✔] kubejs-thermal-1902.1.9-build.16
+  [✔] kube-utils-forge-1.0.3+mc1.19.2
+  [✔] laserio-1.5.2
+  [✔] lazydfu-1.19-1.0.2
+  [✔] letmedespawn-1.18.x-1.19.x-forge-1.0.3
+  [✔] LibX-1.19.2-4.2.8
+  [✔] lootbeams-1.19.2-1.0
+  [✔] lootr-1.19-0.4.24.64
+  [✔] luggage-1.19-1.6
+  [✔] MaxHealthFix-Forge-1.19.2-8.0.2
+  [✔] mcjtylib-1.19-7.2.5
+  [✔] Measurements-forge-1.19.2-1.3.1
+  [✔] megacells-forge-2.0.4-1.19.2
+  [✔] Mekanism-1.19.2-10.3.9.13
+  [✔] MekanismAdditions-1.19.2-10.3.9.13
+  [✔] MekanismGenerators-1.19.2-10.3.9.13
+  [✔] MekanismTools-1.19.2-10.3.9.13
+  [✔] merequester-forge-1.19.2-1.1.4
+  [✔] metalbarrels-1.19.2-5.0.1
+  [✔] minetogether-forge-1.19.2-6.2.1
+  [✔] mining_helmet-1.19-2.1.1
+  [✔] mob_grinding_utils-1.19.2-0.4.50
+  [✔] modernfix-forge-5.10.0+mc1.19.2
+  [✔] modonomicon-1.19.2-1.34.0
+  [✔] modular-routers-1.19.2-10.2.19
+  [✔] moonlight-1.19.2-2.3.5-forge
+  [✔] moreoverlays-1.21.9-mc1.19.2
+  [✔] Morph-o-Tool-1.6-34
+  [✔] MouseTweaks-forge-mc1.19-2.23
+  [✔] mowlib-0.2.45
+  [✔] Mute-1.0.3-build.6+mc1.19.1
+  [✔] mutil-1.19.2-5.1.0
+  [✔] NaturesCompass-1.19.2-1.10.0-forge
+  [✔] NekosEnchantedBooks-1.19-1.8.0
+  [✔] NethersDelight-1.19-3.1
+  [✔] no_nv_flash-1.19.2-1.5.0.3
+  [✔] occultism_kubejs-1.19.2-1.0.0
+  [✔] occultism-1.19.2-1.88.0
+  [✔] oculus-mc1.19.2-1.6.9
+  [✔] overloadedarmorbar-1.19.3-7.2
+  [✔] PackingTape-1.19-0.14.0
+  [✔] Patchouli-1.19.2-77
+  [✔] paucal-forge-1.19.2-0.5.0
+  [✔] Pedestals 1.19.2 - 0.2.56
+  [✔] petrock-0.11.14
+  [✔] PigPen-Forge-1.19.2-11.1.2
+  [✔] pipez-1.19.2-1.2.5
+  [✔] Placebo-1.19.2-7.3.4
+  [✔] plonk-1.19.2-10.0.4
+  [✔] polylib-forge-1900.0.3-build.100
+  [✔] polymorph-forge-0.46.5+1.19.2
+  [✔] ponderjs-1.19.2-1.2.0
+  [✔] productivebees-1.19.2-0.10.7.2
+  [✔] PuzzlesLib-v4.4.3-1.19.2-Forge
+  [✔] Quark-3.4-418
+  [✔] questsadditions-1.19.2-1.4.2
+  [✔] RainShield-1.19-1.1.1
+  [✔] randombonemealflowers-1.19.2-4.4
+  [✔] Reaper-1.0.4
+  [✔] ReAuth-1.19-Forge-4.0.7
+  [✔] rebindnarrator-forge-1.19-1.2.2
+  [✔] rechiseled-1.1.5c-forge-mc1.19.2
+  [✔] redstone_arsenal-1.19.2-7.3.0.20
+  [✔] redstonepen-1.19.2-forge-1.2.20
+  [✔] refinedcooking-3.0.3
+  [✔] refinedstorage-1.11.7
+  [✔] resourcefulconfig-forge-1.19.2-1.0.20
+  [✔] resourcefullib-forge-1.19.2-1.1.24
+  [✔] responsiveshields-2.3-mc1.18-19-20.x
+  [✔] rftoolsbase-1.19-4.1.7
+  [✔] rftoolsbuilder-1.19-5.2.8
+  [✔] rftoolsstorage-1.19-4.1.2
+  [✔] rftoolsutility-1.19-5.1.8
+  [✔] rhino-forge-1902.2.2-build.280
+  [✔] RootsClassic-1.19.2-1.1.35
+  [✔] RSInfinityBooster-1.19.2-3.0+27
+  [✔] rsrequestify-1.19.2-2.3.1
+  [✔] Runelic-Forge-1.19.2-14.1.4
+  [✔] ScalableCatsForce-2.13.10-build-10-with-library
+  [✔] sebastrnlib-2.0.2
+  [✔] serverconfigupdater-3.2
+  [✔] Shrink-1.19-1.3.5
+  [✔] SimpleDiscordRichPresence-forge-3.0.5-build.37+mc1.19.2
+  [✔] simplemagnets-1.1.10-forge-mc1.19
+  [✔] simpletomb-1.19-1.0.15
+  [✔] simplylight-1.19.2-1.4.5-build.42
+  [✔] SkyVillages-1.0.3-1.19.2-1.20.x-forge-release
+  [✔] sliceanddice-forge-2.3.2
+  [✔] SmartBrainLib-forge-1.19.2-1.9
+  [✔] SoL-Carrot-1.19.2-1.14.0
+  [✔] sophisticatedbackpacks-1.19.2-3.19.1.960
+  [✔] sophisticatedcore-1.19.2-0.5.106.503
+  [✔] spark-1.10.37-forge
+  [✔] spirit-forge-1.19.2-2.2.6
+  [✔] SqueezerPatch-1.19.2-2.0.0
+  [✔] starbunclemania-1.19.2-1.0.9
+  [✔] Statues-1.19.2-0.3.2.9
+  [✔] structureessentials-1.19.2-3.2
+  [✔] structure-expansion-1902.1.3-build.7
+  [✔] Super Factory Manager-1.19.2-4.14.1
+  [✔] supermartijn642configlib-1.1.8-forge-mc1.19
+  [✔] supermartijn642corelib-1.1.16-forge-mc1.19.2
+  [✔] supplementaries-1.19.2-2.4.13
+  [✔] swingthroughgrass-1.19.2-1.10.0
+  [✔] technobauble-0.7.0.4-mc1.19.2
+  [✔] tetra_nihilo-1.19.2-0.0.2
+  [✔] tetra-1.19.2-5.5.1
+  [✔] tetranomicon-1.4.2-1.19.2
+  [✔] textrues_embeddium_options-0.1.1+mc1.19.2
+  [✔] thermal_dynamics-1.19.2-10.3.0.20
+  [✔] thermal_expansion-1.19.2-10.3.1.25
+  [✔] thermal_foundation-1.19.2-10.3.1.57
+  [✔] thermal_innovation-1.19.2-10.3.0.20
+  [✔] Tips-Forge-1.19.2-8.0.27
+  [✔] titanium-1.19.2-3.7.4-28
+  [✔] ToastControl-1.19.2-7.0.0
+  [✔] ToolKit-forge-2.3.9-build.24+mc1.19.2
+  [✔] toomanyglyphs-1.19.2-2.2.376.1564
+  [✔] torchmaster-19.2.93
+  [✔] transmog-forge-1.2.2+1.19.2
+  [✔] trashcans-1.0.18-forge-mc1.19
+  [✔] TravelAnchors-1.19.2-4.1.2
+  [✔] TravelersTitles-1.19.2-Forge-3.1.2
+  [✔] UniversalBoneMeal-v4.2.0-1.19.2-Forge
+  [✔] universalgrid-1.19.2-1.1
+  [✔] unstabletools-1.19.2-7.0.2a
+  [✔] UnusualEnd1.19.2_V1.4.3
+  [✔] Uppers-0.5.1
+  [✔] voidtotem-forge-1.19.2-2.1.0
+  [✔] wirelesschargers-1.0.9-forge-mc1.19.2
+  [✔] WitherSkeletonTweaks-1.19.2-8.0.4
+  [✔] yeetusexperimentus-1.0.1-build.2+mc1.19.1
+  [✔] YungsApi-1.19.2-Forge-3.8.10
+
+Params:
+  --username  --version 1.19.2 --gameDir C:/Users/tinko/AppData/Roaming/PrismLauncher/instances/FTB Skies/.minecraft --assetsDir C:/Users/tinko/AppData/Roaming/PrismLauncher/assets --assetIndex 1.19 --uuid  --accessToken  --userType  --versionType release --launchTarget forgeclient --fml.forgeVersion 43.3.5 --fml.mcVersion 1.19.2 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20220805.130853
+
+Window size: 854 x 480
+
+Launcher: standard
+
+Java Arguments:
+[-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms512m, -Xmx7552m, -Duser.language=en]
+
+
+Minecraft process ID: 16712
+
+
+Checking: MC_SLIM
+Checking: MERGED_MAPPINGS
+Checking: MAPPINGS
+Checking: MC_EXTRA
+Checking: MOJMAPS
+Checking: PATCHED
+Checking: MC_SRG
+2024-01-05 03:48:17,528 main WARN Advanced terminal features are not available in this environment
+[03:48:17] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Honki, --version, 1.19.2, --gameDir, C:/Users/tinko/AppData/Roaming/PrismLauncher/instances/FTB Skies/.minecraft, --assetsDir, C:/Users/tinko/AppData/Roaming/PrismLauncher/assets, --assetIndex, 1.19, --uuid, &lt;PROFIL-ID&gt;, --accessToken, ????????, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 43.3.5, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, --width, 854, --height, 480]
+[03:48:17] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.9 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[03:48:20] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23146!/ Service=ModLauncher Env=CLIENT
+[03:48:21] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\tinko\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\fmlcore\1.19.2-43.3.5\fmlcore-1.19.2-43.3.5.jar is missing mods.toml file
+[03:48:21] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\tinko\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.3.5\javafmllanguage-1.19.2-43.3.5.jar is missing mods.toml file
+[03:48:21] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\tinko\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.3.5\lowcodelanguage-1.19.2-43.3.5.jar is missing mods.toml file
+[03:48:21] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\Users\tinko\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\mclanguage\1.19.2-43.3.5\mclanguage-1.19.2-43.3.5.jar is missing mods.toml file
+[03:48:22] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[03:48:22] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: C:\Users\tinko\AppData\Roaming\PrismLauncher\instances\FTB Skies\.minecraft\mods\resourcefullib-forge-1.19.2-1.1.24.jar
+[03:48:22] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 18 dependencies adding them to mods collection
+[03:48:22] [main/ERROR] [ne.mi.fm.lo.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'fancymenu', Requested by: 'fmextension_audio', Expected range: '[2.6.4,)', Actual version: '[MISSING]'
+[03:48:27] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03:48:27] [main/ERROR] [mixin/]: Mixin config kubeutils.mixins.json does not specify "minVersion" property
+[03:48:28] [main/ERROR] [mixin/]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[03:48:28] [main/ERROR] [mixin/]: Mixin config ftbteamdimensions.mixins.json does not specify "minVersion" property
+[03:48:28] [main/ERROR] [mixin/]: Mixin config customvillagertrades.mixins.json does not specify "minVersion" property
+[03:48:28] [main/ERROR] [mixin/]: Mixin config accelerateddecay.mixins.json does not specify "minVersion" property
+[03:48:28] [main/ERROR] [mixin/]: Mixin config minetogether-common.mixins.json does not specify "minVersion" property
+[03:48:28] [main/ERROR] [mixin/]: Mixin config minetogether-forge.mixins.json does not specify "minVersion" property
+[03:48:28] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [thelm.jaopca.mixins.JAOPCAMixinConnector]
+[03:48:28] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.19.2, --gameDir, C:\Users\tinko\AppData\Roaming\PrismLauncher\instances\FTB Skies\.minecraft, --assetsDir, C:\Users\tinko\AppData\Roaming\PrismLauncher\assets, --uuid, &lt;PROFIL-ID&gt;, --username, Honki, --assetIndex, 1.19, --accessToken, ????????, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[03:48:28] [main/WARN] [mixin/]: Reference map 'kube-utils-forge-refmap.json' for kubeutils.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.10.0+mc1.19.2: 76 options available, 12 override(s) found
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.perf.deduplicate_wall_shapes' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.perf.cache_strongholds' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.perf.faster_texture_stitching' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.buffer_builder_leak' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.perf.nbt_memory_usage' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.item_cache_flag' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.chunk_deadlock' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.perf.thread_priorities' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.launch.class_search_cache' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.perf.datapack_reload_exceptions' overriden (by load error) to 'false'
+[03:48:28] [main/WARN] [ModernFix/]: Option 'mixin.perf.faster_texture_loading' overriden (by load error) to 'false'
+[03:48:28] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[03:48:28] [main/WARN] [ModernFix/]: Applying ATs from 154 mods despite being in errored state, this might cause a crash!
+[03:48:28] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[03:48:28] [main/WARN] [mixin/]: Reference map 'universalgrid.refmap.json' for universalgrid.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/WARN] [mixin/]: Reference map 'ToolKit-common-refmap.json' for toolkit-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/WARN] [mixin/]: Reference map 'ToolKit-forge-forge-refmap.json' for toolkit.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/WARN] [EmbeddiumConfig/]: Configuration key 'mixin.features.chunk_rendering' is a required option and cannot be disabled
+[03:48:28] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 31 options available, 0 override(s) found
+[03:48:28] [main/WARN] [mixin/]: Reference map 'create_questing.refmap.json' for create_questing.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/WARN] [mixin/]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/WARN] [mixin/]: Reference map 'accelerated-decay-common-refmap.json' for accelerateddecay-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/WARN] [mixin/]: Reference map 'accelerated-decay-forge-forge-refmap.json' for accelerateddecay.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/WARN] [mixin/]: Reference map 'default-server-properties-forge-refmap.json' for dsp.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/WARN] [mixin/]: Reference map 'kubejs_botania-forge-refmap.json' for kubejs_botania.mixins.forge.json could not be read. If this is a development environment you can ignore this message
+[03:48:28] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:48:29] [main/WARN] [mixin/]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[03:48:29] [main/WARN] [mixin/]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[03:48:29] [main/INFO] [auudio/mixin/AuudioMixinPlugin/]: APPLYING MIXIN: de.keksuccino.auudio.mixin.client.MixinSoundBufferLibrary | TO TARGET: net.minecraft.client.sounds.SoundBufferLibrary
+[03:48:29] [main/INFO] [auudio/mixin/AuudioMixinPlugin/]: APPLYING MIXIN: de.keksuccino.auudio.mixin.client.MixinSoundEngine | TO TARGET: net.minecraft.client.sounds.SoundEngine
+[03:48:29] [main/WARN] [mixin/]: Error loading class: me/desht/pneumaticcraft/common/util/upgrade/ApplicableUpgradesDB (java.lang.ClassNotFoundException: me.desht.pneumaticcraft.common.util.upgrade.ApplicableUpgradesDB)
+[03:48:29] [main/WARN] [mixin/]: @Mixin target me.desht.pneumaticcraft.common.util.upgrade.ApplicableUpgradesDB was not found ad_astra_giselle_addon.mixin.forge.common.json:pneumaticcraft.ApplicableUpgradesDBInject
+[03:48:29] [main/WARN] [mixin/]: Error loading class: com/rolfmao/upgradednetherite/content/UpgradedNetheriteCrossbow (java.lang.ClassNotFoundException: com.rolfmao.upgradednetherite.content.UpgradedNetheriteCrossbow)
+[03:48:29] [main/WARN] [mixin/]: Error loading class: com/rolfmao/upgradednetherite_ultimate/content/UpgradedNetheriteCrossbow (java.lang.ClassNotFoundException: com.rolfmao.upgradednetherite_ultimate.content.UpgradedNetheriteCrossbow)
+[03:48:29] [main/INFO] [co.cu.Cupboard/]: Loaded config for: structureessentials.json
+[03:48:29] [main/WARN] [mixin/]: Error loading class: de/keksuccino/fancymenu/menu/fancy/helper/SetupSharingEngine (java.lang.ClassNotFoundException: de.keksuccino.fancymenu.menu.fancy.helper.SetupSharingEngine)
+[03:48:29] [main/WARN] [mixin/]: @Mixin target de.keksuccino.fancymenu.menu.fancy.helper.SetupSharingEngine was not found fmaudio.mixin.json:client.MixinSetupSharingEngine
+[03:48:30] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-rc.5).
+[03:48:30] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[03:48:30] [main/INFO] [co.un.de.LoggerHacks/]: !!! SOME LOGGERS HAVE MOVED TO THE DEBUG FILE (Please Include them in your bug reports) !!!
+[03:48:31] [main/INFO] [mixin/]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Z)V
+[03:48:31] [main/INFO] [mixin/]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[03:48:31] [main/INFO] [mixin/]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[03:48:31] [main/INFO] [mixin/]:       BeforeConstant found Insn [ICONST_0] 
+[03:48:31] [main/INFO] [mixin/]:   BeforeConstant found INTEGER constant: value = 60, intValue = null
+[03:48:31] [main/INFO] [mixin/]:     BeforeConstant found a matching constant TYPE at ordinal 1
+[03:48:31] [main/INFO] [mixin/]:       BeforeConstant found IntInsn 60
+[03:48:32] [pool-3-thread-1/INFO] [minecraft/Bootstrap]: ModernFix reached bootstrap stage (16.83 s after launch)
+[03:48:33] [pool-3-thread-1/INFO] [minecraft/Bootstrap]: Vanilla bootstrap took 1025 milliseconds
+[03:48:35] [pool-3-thread-1/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[03:48:35] [pool-3-thread-1/INFO] [quark/]: TerraBlender not found, using injection method
+[03:48:36] [Render thread/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23793!/assets/.mcassetsroot' uses unexpected schema
+[03:48:36] [Render thread/WARN] [minecraft/VanillaPackResources]: Assets URL 'union:/C:/Users/tinko/AppData/Roaming/PrismLauncher/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23793!/data/.mcassetsroot' uses unexpected schema
+[03:48:37] [Render thread/INFO] [minecraft/Minecraft]: Setting user: Honki
+[03:48:37] [Render thread/INFO] [ModernFix/]: Bypassed Mojang DFU
+[03:48:37] [Render thread/INFO] [defaultoptions/]: Loaded default options for extra-folder
+[03:48:37] [Render thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03:48:37] [Render thread/INFO] [minecraft/DataFixers]: Building unoptimized datafixer
+[03:48:38] [Render thread/ERROR] [minecraft/Options]: Failed to load options
+java.lang.NumberFormatException: For input string: "key.keyboard.comma"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?] {re:mixin}
+	at java.lang.Integer.parseInt(Integer.java:668) ~[?:?] {re:mixin}
+	at java.lang.Integer.parseInt(Integer.java:786) ~[?:?] {re:mixin}
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_145579_(OptionsKeyLwjgl3Fix.java:162) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading}
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?] {}
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?] {}
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_145576_(OptionsKeyLwjgl3Fix.java:183) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading}
+	at com.mojang.datafixers.util.Either$Left.mapBoth(Either.java:33) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.serialization.DataResult.map(DataResult.java:110) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_145574_(OptionsKeyLwjgl3Fix.java:160) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading}
+	at com.mojang.datafixers.Typed.lambda$updateCap$9(Typed.java:164) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.optics.Traversal$Instance$1.lambda$wander$0(Traversal.java:34) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.util.Pair$Instance.traverse(Pair.java:90) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.optics.profunctors.TraversalP$1.lambda$wander$0(TraversalP.java:50) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.optics.Traversal$Instance$1.lambda$wander$0(Traversal.java:34) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.optics.Traversal$Instance$1.lambda$wander$0(Traversal.java:34) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.Typed.updateCap(Typed.java:164) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.Typed.update(Typed.java:138) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.Typed.update(Typed.java:133) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_16632_(OptionsKeyLwjgl3Fix.java:159) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading}
+	at com.mojang.datafixers.DataFix.lambda$checked$3(DataFix.java:86) ~[datafixerupper-5.0.28.jar%23121!/:?] {re:mixin}
+	at com.mojang.datafixers.functions.Comp.lambda$eval$5(Comp.java:69) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.functions.Comp.lambda$eval$5(Comp.java:69) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.functions.Comp.lambda$eval$5(Comp.java:69) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.functions.Comp.lambda$eval$5(Comp.java:69) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.types.Type.capWrite(Type.java:167) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.types.Type.lambda$readAndWrite$9(Type.java:159) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.types.Type.readAndWrite(Type.java:158) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at com.mojang.datafixers.DataFixerUpper.update(DataFixerUpper.java:84) ~[datafixerupper-5.0.28.jar%23121!/:?] {}
+	at org.embeddedt.modernfix.dfu.LazyDataFixer.update(LazyDataFixer.java:38) ~[modernfix-forge-5.10.0+mc1.19.2.jar%23682!/:5.10.0+mc1.19.2] {re:mixin,re:classloading}
+	at net.minecraft.nbt.NbtUtils.m_129218_(NbtUtils.java:489) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.nbt.NbtUtils.m_129213_(NbtUtils.java:485) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.Options.m_92164_(Options.java:1096) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.oculus.json:MixinOptions_Entrypoint,pl:mixin:APP:kubejs-common.mixins.json:OptionsMixin,pl:mixin:APP:mixins.oculus.fixes.maxfpscrash.json:MixinMaxFpsCrashFix,pl:mixin:APP:defaultoptions.mixins.json:OptionsMixin,pl:mixin:APP:mixins.oculus.json:sky.MixinOptions_CloudsOverride,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Options.load(Options.java:987) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.oculus.json:MixinOptions_Entrypoint,pl:mixin:APP:kubejs-common.mixins.json:OptionsMixin,pl:mixin:APP:mixins.oculus.fixes.maxfpscrash.json:MixinMaxFpsCrashFix,pl:mixin:APP:defaultoptions.mixins.json:OptionsMixin,pl:mixin:APP:mixins.oculus.json:sky.MixinOptions_CloudsOverride,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Options.m_92140_(Options.java:949) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.oculus.json:MixinOptions_Entrypoint,pl:mixin:APP:kubejs-common.mixins.json:OptionsMixin,pl:mixin:APP:mixins.oculus.fixes.maxfpscrash.json:MixinMaxFpsCrashFix,pl:mixin:APP:defaultoptions.mixins.json:OptionsMixin,pl:mixin:APP:mixins.oculus.json:sky.MixinOptions_CloudsOverride,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Options.<init>(Options.java:815) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.oculus.json:MixinOptions_Entrypoint,pl:mixin:APP:kubejs-common.mixins.json:OptionsMixin,pl:mixin:APP:mixins.oculus.fixes.maxfpscrash.json:MixinMaxFpsCrashFix,pl:mixin:APP:defaultoptions.mixins.json:OptionsMixin,pl:mixin:APP:mixins.oculus.json:sky.MixinOptions_CloudsOverride,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:428) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.3.5.jar%23150!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:67) [ForgeWrapper-1.5.8-prism.jar:1.5.8-prism] {}
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?] {}
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?] {}
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?] {}
+[03:48:38] [Render thread/INFO] [minecraft/Minecraft]: Backend library: LWJGL version 3.3.1 build 7
+[03:48:38] [Render thread/INFO] [KubeJS/]: Loaded client.properties
+[03:48:38] [Render thread/INFO] [Oculus/]: Debug functionality is disabled.
+[03:48:38] [Render thread/INFO] [Oculus/]: ARB_direct_state_access detected, enabling DSA.
+[03:48:38] [Render thread/INFO] [Oculus/]: Shaders are disabled because no valid shaderpack is selected
+[03:48:38] [Render thread/INFO] [Oculus/]: Shaders are disabled
+[03:48:39] [Render thread/FATAL] [ne.mi.fm.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §efmextension_audio§r requires §6fancymenu§r §o2.6.4 or above§r
+§7Currently, §6fancymenu§r§7 is §o§nnot installed
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.19.2-43.3.5.jar%23794!/:?] {}
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?] {}
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?] {}
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?] {}
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:99) ~[fmlcore-1.19.2-43.3.5.jar%23794!/:?] {}
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:131) ~[fmlcore-1.19.2-43.3.5.jar%23794!/:?] {}
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:91) ~[forge-1.19.2-43.3.5-universal.jar%23798!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:111) ~[forge-1.19.2-43.3.5-universal.jar%23798!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:91) ~[forge-1.19.2-43.3.5-universal.jar%23798!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:468) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.3.5.jar%23150!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:67) [ForgeWrapper-1.5.8-prism.jar:1.5.8-prism] {}
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?] {}
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?] {}
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?] {}
+[03:48:39] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundEngineLoadEvent to a broken mod state
+[03:48:39] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterColorHandlersEvent$Block to a broken mod state
+[03:48:39] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterColorHandlersEvent$Item to a broken mod state
+[03:48:39] [Render thread/INFO] [HammerLib/]: Registered custom glint render buffers.
+[03:48:39] [Render thread/INFO] [Oculus/]: Hardware information:
+[03:48:39] [Render thread/INFO] [Oculus/]: CPU: 12x Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+[03:48:39] [Render thread/INFO] [Oculus/]: GPU: NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 546.33)
+[03:48:39] [Render thread/INFO] [Oculus/]: OS: Windows 11 (10.0)
+[03:48:39] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RenderLevelStageEvent$RegisterStageEvent to a broken mod state
+[03:48:39] [Render thread/ERROR] [ne.mi.fm.ModLoader/]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterParticleProvidersEvent to a broken mod state
+---- Minecraft Crash Report ----
+// Don't be sad, have a hug! <3
+Time: 2024-01-05 03:48:40
+Description: Initializing game
+java.lang.IllegalStateException: A SessionProvider has not been set yet.
+	at net.creeperhost.minetogether.session.MineTogetherSession.getTokenAsync(MineTogetherSession.java:94) ~[minetogether-forge-1.19.2-6.2.1.jar%23679!/:?] {re:classloading}
+	at net.creeperhost.minetogether.chat.ChatAuthImpl.getSessionToken(ChatAuthImpl.java:57) ~[minetogether-forge-1.19.2-6.2.1.jar%23679!/:?] {re:classloading}
+	at net.creeperhost.minetogether.lib.chat.irc.pircbotx.PircBotClient.start(PircBotClient.java:104) ~[minetogether-forge-1.19.2-6.2.1.jar%23679!/:?] {re:classloading}
+	at net.creeperhost.minetogether.chat.MineTogetherChat.initChat(MineTogetherChat.java:79) ~[minetogether-forge-1.19.2-6.2.1.jar%23679!/:?] {re:mixin,re:classloading}
+	at net.minecraft.client.gui.Gui.handler$dgj000$onInit(Gui.java:2856) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:apotheosis.mixins.json:client.GuiMixin,pl:mixin:APP:mixins.oculus.json:gui.MixinGui,pl:mixin:APP:quark.mixins.json:client.GuiMixin,pl:mixin:APP:minetogether-common.mixins.json:chat.ingame.GuiMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.Gui.<init>(Gui.java:139) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:apotheosis.mixins.json:client.GuiMixin,pl:mixin:APP:mixins.oculus.json:gui.MixinGui,pl:mixin:APP:quark.mixins.json:client.GuiMixin,pl:mixin:APP:minetogether-common.mixins.json:chat.ingame.GuiMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraftforge.client.gui.overlay.ForgeGui.<init>(ForgeGui.java:69) ~[forge-1.19.2-43.3.5-universal.jar%23798!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.oculus.json:gui.MixinForgeGui,pl:mixin:APP:travelerstitles_forge.mixins.json:RenderGuiTickMixin,pl:mixin:APP:quark.mixins.json:client.ForgeGuiMixin,pl:mixin:APP:minetogether-forge.mixins.json:ForgeIngameGuiMixin,pl:mixin:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:527) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.3.5.jar%23150!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:67) [ForgeWrapper-1.5.8-prism.jar:1.5.8-prism] {}
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?] {}
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?] {}
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?] {}
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+-- Head --
+Thread: Render thread
+Suspected Mods: NONE
+Stacktrace:
+	at net.creeperhost.minetogether.session.MineTogetherSession.getTokenAsync(MineTogetherSession.java:94) ~[minetogether-forge-1.19.2-6.2.1.jar%23679!/:?] {re:classloading}
+	at net.creeperhost.minetogether.chat.ChatAuthImpl.getSessionToken(ChatAuthImpl.java:57) ~[minetogether-forge-1.19.2-6.2.1.jar%23679!/:?] {re:classloading}
+	at net.creeperhost.minetogether.lib.chat.irc.pircbotx.PircBotClient.start(PircBotClient.java:104) ~[minetogether-forge-1.19.2-6.2.1.jar%23679!/:?] {re:classloading}
+	at net.creeperhost.minetogether.chat.MineTogetherChat.initChat(MineTogetherChat.java:79) ~[minetogether-forge-1.19.2-6.2.1.jar%23679!/:?] {re:mixin,re:classloading}
+	at net.minecraft.client.gui.Gui.handler$dgj000$onInit(Gui.java:2856) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:apotheosis.mixins.json:client.GuiMixin,pl:mixin:APP:mixins.oculus.json:gui.MixinGui,pl:mixin:APP:quark.mixins.json:client.GuiMixin,pl:mixin:APP:minetogether-common.mixins.json:chat.ingame.GuiMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.Gui.<init>(Gui.java:139) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:apotheosis.mixins.json:client.GuiMixin,pl:mixin:APP:mixins.oculus.json:gui.MixinGui,pl:mixin:APP:quark.mixins.json:client.GuiMixin,pl:mixin:APP:minetogether-common.mixins.json:chat.ingame.GuiMixin,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraftforge.client.gui.overlay.ForgeGui.<init>(ForgeGui.java:69) ~[forge-1.19.2-43.3.5-universal.jar%23798!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.oculus.json:gui.MixinForgeGui,pl:mixin:APP:travelerstitles_forge.mixins.json:RenderGuiTickMixin,pl:mixin:APP:quark.mixins.json:client.ForgeGuiMixin,pl:mixin:APP:minetogether-forge.mixins.json:ForgeIngameGuiMixin,pl:mixin:A}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:527) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:mixin,pl:accesstransformer:B,pl:runtimedistcleaner:A,re:classloading,pl:accesstransformer:B,pl:mixin:A,pl:runtimedistcleaner:A}
+-- Initialization --
+Details:
+	Modules: 
+		ADVAPI32.dll:Erweiterte Windows 32 Base-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		AudioDevProps2.dll::2.6.12.0:A-Volute
+		AudioSes.dll:Audiositzung:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		COMCTL32.dll:Bibliothek für Steuerelemente:6.10 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPT32.dll:Krypto-API32:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTBASE.dll:Base cryptographic API DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		CRYPTSP.dll:Cryptographic Service Provider API:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		CoreMessaging.dll:Microsoft CoreMessaging Dll:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		DBGHELP.DLL:Windows Image Helper:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		DEVOBJ.dll:Device Information Set DLL:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		DNSAPI.dll:DNS-Client-API-DLL:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		GDI32.dll:GDI Client DLL:10.0.22621.2792 (WinBuild.160101.0800):Microsoft Corporation
+		GLU32.dll:OpenGL-Hilfsprogrammbibliotheks-DLL:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		IMM32.DLL:Multi-User Windows IMM32 API Client DLL:10.0.22621.2792 (WinBuild.160101.0800):Microsoft Corporation
+		IPHLPAPI.DLL:IP-Hilfs-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		KERNEL32.DLL:Client-DLL für Windows NT-Basis-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		KERNELBASE.dll:Client-DLL für Windows NT-Basis-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		MMDevApi.dll:MMDevice-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		MSCTF.dll:MSCTF-Server-DLL:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		MpOav.dll:IOfficeAntiVirus Module:4.18.23110.3 (9ebb3643d539a6fc4659898b1df3124d5da4c0a9):Microsoft Corporation
+		NSI.dll:NSI User-mode interface DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		NTASN1.dll:Microsoft ASN.1 API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		NahimicOSD.dll:NahimicOSD:2.2.25.0:Nahimic
+		OLEAUT32.dll:OLEAUT32.DLL:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		Ole32.dll:Microsoft OLE für Windows:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		OpenAL.dll:Main implementation library:1.21.1:
+		PSAPI.DLL:Process Status Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		Pdh.dll:Windows Unterstützungs-DLL für Leistungsdaten:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		ProductInfo.dll::1.5.13.0:Nahimic
+		PropSys.dll:Microsoft-Eigenschaftensystem:7.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		RPCRT4.dll:Remoteprozeduraufruf-Laufzeitumgebung:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		SETUPAPI.dll:Windows Setup-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		SHCORE.dll:SHCORE:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		SHELL32.dll:Allgemeine Windows-Shell-DLL:10.0.22621.2792 (WinBuild.160101.0800):Microsoft Corporation
+		UMPDC.dll:User Mode Power Dependency Coordinator:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		USER32.dll:Client-DLL für Windows USER-API (mehrere Benutzer):10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		USERENV.dll:Userenv:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		VCRUNTIME140.dll:Microsoft® C Runtime Library:14.31.31103.0:Microsoft Corporation
+		VERSION.dll:Version Checking and File Installation Libraries:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		WINHTTP.dll:Windows HTTP-Dienste:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		WINMM.dll:MCI API-DLL:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		WINSTA.dll:Winstation Library:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		WS2_32.dll:Windows Socket 2.0-32-Bit-DLL:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		WSOCK32.dll:Windows Socket 32-Bit DLL:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		WTSAPI32.dll:Windows Remote Desktop Session Host Server SDK APIs:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		amsi.dll:Anti-Malware Scan Interface:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		bcrypt.dll:Bibliothek mit kryptografischen Primitiven von Windows:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		bcryptPrimitives.dll:Windows Cryptographic Primitives Library:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		cfgmgr32.dll:Configuration Manager DLL:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		clbcatq.dll:COM+ Configuration Catalog:2001.12.10941.16384 (WinBuild.160101.0800):Microsoft Corporation
+		combase.dll:Microsoft COM für Windows:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		cryptnet.dll:Crypto Network Related API:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		d3d9.dll:Direct3D 9 Runtime:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		dbgcore.DLL:Windows Core Debugging Helpers:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc.DLL:DHCP Clientdienst:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		dhcpcsvc6.DLL:DHCPv6-Client:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		dinput8.dll:Microsoft DirectInput:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		directxdatabasehelper.dll:DirectXDatabaseHelper:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		drvstore.dll:Driver Store API:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		dwmapi.dll:Microsoft Desktopfenster-Manager-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		dxcore.dll:DXCore:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		fwpuclnt.dll:FWP/IPsec Benutzermodus-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		gdi32full.dll:GDI Client DLL:10.0.22621.2861 (WinBuild.160101.0800):Microsoft Corporation
+		glfw.dll:GLFW 3.4.0 DLL:3.4.0:GLFW
+		gpapi.dll:Gruppenrichtlinienclient-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		icm32.dll:Microsoft Color Management Module (CMM):10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		imagehlp.dll:Windows NT Image Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		inputhost.dll:InputHost:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		java.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		javaw.exe:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		jemalloc.dll
+		jimage.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		jli.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		jna3548673185364931099.dll:JNA native library:6.1.2:Java(TM) Native Access (JNA)
+		jsvml.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		jvm.dll:Java HotSpot(TM) 64-Bit server VM:17.0.9.0:Oracle Corporation
+		kernel.appcore.dll:AppModel API Host:10.0.22621.2715 (WinBuild.160101.0800):Microsoft Corporation
+		lwjgl.dll
+		lwjgl_opengl.dll
+		lwjgl_stb.dll
+		management.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		management_ext.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		msasn1.dll:ASN.1 Runtime APIs:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		mscms.dll:Microsoft-Farbabstimmungssystem-DLL:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		msvcp140.dll:Microsoft® C Runtime Library:14.31.31103.0:Microsoft Corporation
+		msvcp_win.dll:Microsoft® C Runtime Library:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		msvcrt.dll:Windows NT CRT DLL:7.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		mswsock.dll:Microsoft Windows Sockets 2.0-Dienstanbieter:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		napinsp.dll:E-Mail-Namenshimanbieter:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		ncrypt.dll:Windows NCrypt-Router:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		net.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		nio.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		nlansp_c.dll:NLA Namespace Service Provider DLL:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		ntdll.dll:DLL für NT-Layer:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		ntmarta.dll:Windows NT MARTA-Anbieter:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		nvgpucomp64.dll:NVIDIA GPU Compiler Driver, Version 546.33 :31.0.15.4633:NVIDIA Corporation
+		nvoglv64.dll:NVIDIA Compatible OpenGL ICD:31.0.15.4633:NVIDIA Corporation
+		opengl32.dll:OpenGL Client DLL:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		perfos.dll:DLL für Windows-Systemleistungsobjekte:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		pfclient.dll:SysMain Client:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		pnrpnsp.dll:PNRP-Namespaceanbieter:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		powrprof.dll:Power Profile Helper DLL:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		profapi.dll:User Profile Basic API:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		rasadhlp.dll:Remote Access AutoDial Helper:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		rsaenh.dll:Microsoft Enhanced Cryptographic Provider:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		sechost.dll:Host for SCM/SDDL/LSA Lookup APIs:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		shlwapi.dll:Shell Light-weight-Hilfsprogrammbibliothek:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		sunmscapi.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		textinputframework.dll:"TextInputFramework.DYNLINK":10.0.22621.2792 (WinBuild.160101.0800):Microsoft Corporation
+		ucrtbase.dll:Microsoft® C Runtime Library:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		uxtheme.dll:Microsoft UxTheme-Bibliothek:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		vcruntime140_1.dll:Microsoft® C Runtime Library:14.31.31103.0:Microsoft Corporation
+		verify.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+		win32u.dll:Win32u:10.0.22621.2861 (WinBuild.160101.0800):Microsoft Corporation
+		windows.storage.dll:Microsoft WinRT Storage-API:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		winrnr.dll:LDAP RnR Provider DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		wintrust.dll:Microsoft Trust Verification APIs:10.0.22621.2792 (WinBuild.160101.0800):Microsoft Corporation
+		wintypes.dll:Windows-Basistypen-DLL:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		wldp.dll:Windows-Sperrungsrichtlinie:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		wshbth.dll:Windows Sockets Helper DLL:10.0.22621.2506 (WinBuild.160101.0800):Microsoft Corporation
+		wshunix.dll:AF_UNIX Winsock2 Helper DLL:10.0.22621.1 (WinBuild.160101.0800):Microsoft Corporation
+		xinput1_4.dll:API für Microsoft Common Controller:10.0.22621.2428 (WinBuild.160101.0800):Microsoft Corporation
+		zip.dll:Java(TM) Platform SE binary:17.0.9.0:Oracle Corporation
+Stacktrace:
+	at net.minecraft.client.main.Main.m_239872_(Main.java:176) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23793!/:?] {re:classloading,re:mixin,pl:runtimedistcleaner:A,pl:mixin:A,pl:runtimedistcleaner:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.3.5.jar%23150!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%23137!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?] {}
+	at io.github.zekerzhayard.forgewrapper.installer.Main.main(Main.java:67) [ForgeWrapper-1.5.8-prism.jar:1.5.8-prism] {}
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:88) [NewLaunch.jar:?] {}
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:126) [NewLaunch.jar:?] {}
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:71) [NewLaunch.jar:?] {}
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 17.0.9, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 307673072 bytes (293 MiB) / 1002438656 bytes (956 MiB) up to 7918845952 bytes (7552 MiB)
+	CPUs: 12
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+	Identifier: Intel64 Family 6 Model 158 Stepping 10
+	Microarchitecture: Coffee Lake
+	Frequency (GHz): 3.19
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: Intel(R) UHD Graphics 630
+	Graphics card #0 vendor: Intel Corporation (0x8086)
+	Graphics card #0 VRAM (MB): 1024.00
+	Graphics card #0 deviceId: 0x3e92
+	Graphics card #0 versionInfo: DriverVersion=27.20.100.9664
+	Graphics card #1 name: NVIDIA GeForce GTX 1060 6GB
+	Graphics card #1 vendor: NVIDIA (0x10de)
+	Graphics card #1 VRAM (MB): 4095.00
+	Graphics card #1 deviceId: 0x1c03
+	Graphics card #1 versionInfo: DriverVersion=31.0.15.4633
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 2.13
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 2.13
+	Memory slot #1 type: DDR4
+	Memory slot #2 capacity (MB): 8192.00
+	Memory slot #2 clockSpeed (GHz): 2.13
+	Memory slot #2 type: DDR4
+	Virtual memory max (MB): 29263.83
+	Virtual memory used (MB): 19686.48
+	Swap memory total (MB): 4864.00
+	Swap memory used (MB): 311.10
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx7552m
+	Loaded Shaderpack: (off)
+	Launched Version: 1.19.2
+	Backend library: LWJGL version 3.3.1 build 7
+	Backend API: NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2 GL version 3.2.0 NVIDIA 546.33, NVIDIA Corporation
+	Window size: <not initialized>
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	CPU: 12x Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.5.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		javafml@null
+		kotlinforforge@3.12.0
+		lowcodefml@null
+		kotori_scala@2.13.10-build-10
+	Mod List: 
+		client-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |NONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		forge-1.19.2-43.3.5-universal.jar                 |Forge                         |forge                         |43.3.5              |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+#@!@# Game crashed! Crash report saved to: #@!@# C:\Users\tinko\AppData\Roaming\PrismLauncher\instances\FTB Skies\.minecraft\crash-reports\crash-2024-01-05_03.48.40-client.txt
+Der Prozess wurde mit Status -1 beendet.
+Clipboard copy at: 05 Jan 2024 03:51:50 +0100
